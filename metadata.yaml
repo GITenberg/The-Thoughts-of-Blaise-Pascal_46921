@@ -1,0 +1,31 @@
+_repo: The-Thoughts-of-Blaise-Pascal_46921
+contributor:
+  creator:
+    editor:
+      agent_name: Molinier, M. Auguste
+      gutenberg_agent_id: '44032'
+      url: http://www.gutenberg.org/2009/agents/44032
+  translator:
+    agent_name: Paul, C. Kegan
+    gutenberg_agent_id: '44033'
+    url: http://www.gutenberg.org/2009/agents/44033
+creator:
+  author:
+    agent_name: Pascal, Blaise
+    alias: Montalte, Louis de
+    birthdate: 1623
+    deathdate: 1662
+    gutenberg_agent_id: '7913'
+    url: http://www.gutenberg.org/2009/agents/7913
+    wikipedia: http://en.wikipedia.org/wiki/Blaise_Pascal
+description: ''
+gutenberg_issued: '2014-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Thoughts of Blaise Pascal
+url: http://www.gutenberg.org/ebooks/46921
