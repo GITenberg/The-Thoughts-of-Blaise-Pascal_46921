@@ -1,4 +1,5 @@
 _repo: The-Thoughts-of-Blaise-Pascal_46921
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,6 +10,9 @@ contributor:
     agent_name: Paul, C. Kegan
     gutenberg_agent_id: '44033'
     url: http://www.gutenberg.org/2009/agents/44033
+covers:
+- cover_type: archival
+  image_path: 46921-h/images/cover.jpg
 creator:
   author:
     agent_name: Pascal, Blaise
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7913
     wikipedia: http://en.wikipedia.org/wiki/Blaise_Pascal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46921#The-Thoughts-of-Blaise-Pascal
 gutenberg_issued: '2014-09-21'
 gutenberg_type: Text
 identifiers:
